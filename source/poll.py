@@ -1,11 +1,10 @@
+import json
 import os
 
+import requests
 from dotenv import dotenv_values
 
 from smtp.smtp import send_email
-
-import json
-import requests
 
 
 def poll():

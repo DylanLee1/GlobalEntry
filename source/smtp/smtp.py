@@ -1,8 +1,7 @@
-from email.mime.text import MIMEText
-from dotenv import dotenv_values
-
 import smtplib
-import os
+from email.mime.text import MIMEText
+
+from dotenv import dotenv_values
 
 
 def send_email(env_path):

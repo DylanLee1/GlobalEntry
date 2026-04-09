@@ -1,4 +1,5 @@
 # GlobalEntry
+
 Global Entry Appointment Notifier
 
 A location with available slots will look like
